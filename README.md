@@ -62,7 +62,7 @@ Users can filter data by department, job role, gender, and education for deeper 
 * Workforce Planning: Supports long-term HR planning using clear and actionable insights
 ## 6. Screenshots / Demo
 Show what the dashboard looks like. ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview].()
+Example: ![Dashboard Preview].(https://github.com/Sakshi-sharma2003/HR-Analytics-Dashboard/blob/main/Screenshot%202025-12-13%20142435.png).
 
 
 
