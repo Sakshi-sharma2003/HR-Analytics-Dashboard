@@ -61,6 +61,8 @@ Users can filter data by department, job role, gender, and education for deeper 
 * Data-Driven HR Decisions: Enables management to design better salary structures and career paths
 * Workforce Planning: Supports long-term HR planning using clear and actionable insights
 ## 6. Screenshots / Demo
+Show what the dashboard looks like. ![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview].()
 
 
 
